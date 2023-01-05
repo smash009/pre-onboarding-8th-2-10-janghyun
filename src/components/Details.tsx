@@ -17,11 +17,11 @@ function Details({ modalOpen, setModalOpen }: Iprops) {
       <div>
         <h3>타이틀</h3>
         <div>
-          <input type="text" placeholder="" />
+          <input type="text" placeholder="1" />
         </div>
         <span>담당자</span>
         <div>
-          <input type="text" placeholder="" />
+          <input type="text" placeholder="2" />
         </div>
         <span>날짜</span>
         <div>
